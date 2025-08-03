@@ -1,0 +1,192 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Pendaftaran Nikah",
+      "requirements": [
+        "Asli KK Pemohon",
+        "FC KK Calon Mempelai (Suami / Istri)",
+        "FC KK Orang Tua (Jika KK Berbeda Sama KK Pemohon)",
+        "Akta Kematian Orang Tua (Jika Meninggal)",
+        "Akta Cerai (Bagi Pemohon Berstatus Cerai Hidup)",
+        "Akta Kematian dan Buku Nikah (Bagi Pemohon Berstatus Cerai Mati)",
+        "Surat Pemeriksaan Kesehatan Dari Puskesmas Pemohon (Sertifikat Mengikuti Pelatihan CATIN)",
+        "Pas Foto 3x4 Calon Pasutri (4 Lembar)"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Pernyataan Belum Nikah",
+      "requirements": [
+        "Asli KK Pemohon",
+        "FC KTP 2 Saksi",
+        "FC Akta Cerai / Akta Kematian (Jika Pemohon Janda / Duda)",
+        "Surat Pernyataan Belum Pernah Menikah (Bermaterai)"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Akta Kematian",
+      "requirements": [
+        "Pengantar RT & RW",
+        "Surat Kematian Dari RS / Dokter / SPTJM",
+        "Asli KK",
+        "FC KTP Pelapor",
+        "FC KTP 2 Saksi"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Akta Kelahiran",
+      "requirements": [
+        "Pengantar RT & RW",
+        "Surat Kelahiran Dari RS / Dokter / SPTJM",
+        "Asli KK",
+        "FC KTP 2 Orang Tua",
+        "FC KTP 2 Saksi",
+        "FC Buku Nikah (Legalisir KUA)"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Pecah KK",
+      "requirements": [
+        "Pengantar RT & RW",
+        "Asli KK",
+        "FC KTP Pelapor",
+        "FC Buku Nikah / Surat Cerai",
+        "Surat Pernyataan / FC Surat Putusan Hak Asu Anak (Jila Anak Usia >17 Tahun)"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Perubahan KK",
+      "requirements": [
+        "Pengantar RT & RW",
+        "Asli KK",
+        "FC KTP Pelapor",
+        "FC Berkas Pendukung (Buku Nikah / Akta Cerai, Ijazah Terakhir, SPK Pekerjaan)"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Cetak Ulang KK",
+      "requirements": [
+        "Asli KK",
+        "FC KTP Pelapor",
+        "Berkas Pendukung (Surat Kepolisian Jika Hilang)"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Pindah Masuk",
+      "requirements": [
+        "Pengantar RT & RW",
+        "SKPWNI (Surat Pindah Dari Kota / Daerah Asal)",
+        "Berita Acara Pindah (Kelurahan)",
+        "FC KTP Pelapor",
+        "FC KK Tujuan",
+        "FC Buku Nikah / Akta Cerai",
+        "FC Surat Kepemilikan Tanah"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Pindah Keluar",
+      "requirements": [
+        "Pengantar RT & RW",
+        "Asli KK",
+        "FC KTP Pelapor",
+        "FC KK Tujuan"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Pindah Dalam (Antar Kecamatan)",
+      "requirements": [
+        "Pengantar RT & RW",
+        "FC KK Asal",
+        "FC KK Penjamin",
+        "FC Buku Nikah",
+        "FC Surat Kepemilikan Tanah",
+        "Blanko"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Domisili Perorangan",
+      "requirements": [
+        "Pengantar RT & RW",
+        "FC KTP + KK",
+        "Blanko Tempat Tinggal Non Permanen",
+        "Surat Pernyataan Pekerjaan"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Domisili Perusahaan",
+      "requirements": [
+        "Pengantar RT & RW",
+        "FC KTP + KK",
+        "FC KTP (Yang Diwakilkan) & Surat Kuasa",
+        "FC NIB",
+        "FC Akta Pendirian Perusahaan",
+        "FC Surat Tanah / Surat Sewa"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Surat Keterangan Usaha",
+      "requirements": [
+        "Pengantar RT & RW",
+        "FC KTP + KK",
+        "Surat Pernyataan Memiliki Usaha (Mengetahui RT & RW dan Bermaterai)",
+        "Foto Usaha"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "BPJS PBPU / PBI",
+      "requirements": [
+        "Blanko BPJS",
+        "FC KTP + KK"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Ahli Waris",
+      "requirements": [
+        "Pengantar RT & RW",
+        "Surat Pernyataan Ahli Waris (Mengetahui RT & RW, Dikuatkan Saksi Usia Diatas Ahli Waris / Sama dan Bermaterai)",
+        "Akta Kematian Pewaris",
+        "Buku Nikah Pewaris",
+        "FC Buku Nikah (Legalisir KUA)",
+        "FC KTP + KK Ahli Waris",
+        "Akta Kelahiran Ahli Waris (Anak Kandung)",
+        "Surat Hak Asuh Dari Pengadilan (Anak Angkat)",
+        "FC KTP Saksi Yang Tidak Sedarah dan Mengerti Silsilah Keluarga, Serta Usia Diatas Ahli Waris / Sama"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Pengurusan Tanah",
+      "requirements": [
+        "Pengantar RT & RW",
+        "Asli KTP + KK",
+        "Surat Ahli Waris",
+        "Surat Tanah Asli",
+        "Hibah / Jual Beli Asli"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Rutilahu (Rumah Tidak layak Huni)",
+      "requirements": [
+        "FC KTP + KK Pemohon",
+        "FC Sertifikat Rumah",
+        "Foto Rumah Pemohon",
+        "Surat Pernyataan Gakin Diketahui RT & RW"
+      ]
+    }
+  ]
+}

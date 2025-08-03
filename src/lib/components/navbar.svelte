@@ -9,14 +9,14 @@
                 <a href="/laporan-keuangan" class="text-gray-700 hover:text-blue-600 font-medium transition-colors">
                     Laporan Keuangan
                 </a>
-                <a href="/info-layanan" class="text-gray-700 hover:text-blue-600 font-medium transition-colors">
+                <a href="/layanan" class="text-gray-700 hover:text-blue-600 font-medium transition-colors">
                     Info Layanan
                 </a>
             </div>
 
             <!-- Search Bar -->
             <div class="flex items-center">
-                <div class="relative">
+                <!-- <div class="relative">
                     <input
                         type="text"
                         placeholder="Cari..."
@@ -27,7 +27,7 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m21 21-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                         </svg>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
