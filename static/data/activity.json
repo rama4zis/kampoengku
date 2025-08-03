@@ -1,0 +1,378 @@
+[
+  {
+    "id": "1",
+    "imageUrl": "data/activity/2024/indomie.jpg",
+    "caption": "Kegiatan bagi-bagi makanan untuk warga RT 8",
+    "date": "2024-12-15",
+    "year": 2024,
+    "location": "RT 8, Kelurahan Kartar"
+  },
+  {
+    "id": "2",
+    "imageUrl": "data/activity/2025/indomie.jpg",
+    "caption": "Program bantuan makanan siap saji untuk warga",
+    "date": "2025-01-20",
+    "year": 2025,
+    "location": "RT 8, Kelurahan Kartar"
+  },
+  {
+    "id": "3",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0758.jpg",
+    "caption": "Kegiatan jalan sehat bersama warga RT 8",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "4",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0759.jpg",
+    "caption": "Jalan sehat pagi bersama keluarga",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "5",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0761.jpg",
+    "caption": "Semangat warga dalam kegiatan jalan sehat",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "6",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0762.jpg",
+    "caption": "Moment kebersamaan jalan sehat RT 8",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "7",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0763.jpg",
+    "caption": "Peserta jalan sehat dari berbagai usia",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "8",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0764.jpg",
+    "caption": "Aktivitas olahraga warga RT 8",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "9",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0766.jpg",
+    "caption": "Jalan sehat untuk kesehatan bersama",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "10",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0769.jpg",
+    "caption": "Kegiatan rutin jalan sehat mingguan",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "11",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0770.jpg",
+    "caption": "Antusiasme warga dalam berolahraga",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "12",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0771.jpg",
+    "caption": "Dokumentasi jalan sehat RT 8",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "13",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0772.jpg",
+    "caption": "Kebersamaan dalam aktivitas sehat",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "14",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0773.jpg",
+    "caption": "Jalan sehat untuk semua kalangan",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "15",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0774.jpg",
+    "caption": "Moment seru jalan sehat bersama",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "16",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0785.jpg",
+    "caption": "Aktivitas olahraga pagi hari",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "17",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0786.jpg",
+    "caption": "Jalan sehat dengan pemandangan indah",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "18",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0787.jpg",
+    "caption": "Kegiatan sehat rutin warga",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "19",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0789.jpg",
+    "caption": "Semangat berolahraga bersama",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "20",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0790.jpg",
+    "caption": "Dokumentasi kegiatan jalan sehat",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "21",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0791.jpg",
+    "caption": "Jalan sehat untuk hidup sehat",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "22",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0805.jpg",
+    "caption": "Kebersamaan dalam kegiatan olahraga",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "23",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0806.jpg",
+    "caption": "Aktivitas jalan sehat yang menyenangkan",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "24",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0809.jpg",
+    "caption": "Moment kebersamaan warga RT 8",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "25",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0810.jpg",
+    "caption": "Jalan sehat dengan suasana ceria",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "26",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0816.jpg",
+    "caption": "Kegiatan olahraga rutin warga",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "27",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0817.jpg",
+    "caption": "Semangat hidup sehat bersama",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "28",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0818.jpg",
+    "caption": "Dokumentasi jalan sehat mingguan",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "29",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0819.jpg",
+    "caption": "Aktivitas sehat untuk semua",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "30",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0830.jpg",
+    "caption": "Jalan sehat dengan antusiasme tinggi",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "31",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0831.jpg",
+    "caption": "Kebersamaan dalam berolahraga",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "32",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0844.jpg",
+    "caption": "Moment seru jalan sehat RT 8",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "33",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0850.jpg",
+    "caption": "Aktivitas olahraga yang menyehatkan",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "34",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0851.jpg",
+    "caption": "Jalan sehat dengan pemandangan asri",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "35",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0876.jpg",
+    "caption": "Kegiatan sehat rutin komunitas",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "36",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0884.jpg",
+    "caption": "Semangat warga dalam berolahraga",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "37",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0939.jpg",
+    "caption": "Dokumentasi kegiatan jalan sehat",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "38",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0956.jpg",
+    "caption": "Jalan sehat untuk kebugaran bersama",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "39",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0971.jpg",
+    "caption": "Aktivitas sehat yang menyenangkan",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "40",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0980.jpg",
+    "caption": "Kebersamaan dalam hidup sehat",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "41",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0981.jpg",
+    "caption": "Jalan sehat dengan suasana hangat",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "42",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0982.jpg",
+    "caption": "Moment kebersamaan olahraga pagi",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "43",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0983.jpg",
+    "caption": "Aktivitas jalan sehat yang rutin",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "44",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0988.jpg",
+    "caption": "Semangat hidup sehat warga RT 8",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "45",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0989.jpg",
+    "caption": "Kegiatan olahraga bersama keluarga",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "46",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0990.jpg",
+    "caption": "Jalan sehat dengan antusiasme warga",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  },
+  {
+    "id": "47",
+    "imageUrl": "data/activity/jalan-sehat/IMG_0992.jpg",
+    "caption": "Dokumentasi akhir jalan sehat RT 8",
+    "date": "2024-07-14",
+    "year": 2024,
+    "location": "Kompleks RT 8"
+  }
+]
